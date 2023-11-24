@@ -34,7 +34,7 @@ export default function Carregamento() {
   return (
     <StyledMain>
       <Caixa>
-        <Titulo titulo="Estamos Carregando seu Plano com IA aguarde um momento...." />
+        <Titulo titulo="Estamos carregando seu plano com IA aguarde um momento...." />
         <CaixaCarregamento>
           <StyleGif src={loading} />
         </CaixaCarregamento>
