@@ -10,7 +10,7 @@ Garanta uma assistência completa para seus entes queridos em recuperação pós
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/Arttutu/saude-global-solution/blob/main/Captura%20de%20tela%202024-01-26%20100337.png?raw=true)
 
 ## Detalhes do projeto
 
